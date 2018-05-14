@@ -4,7 +4,7 @@ body {
   font-family: Verdana, Georgia, serif;
   font-size: 14px;
 }
-/* gurder- margin */
+
 
 #header {
   background-color: #5c755e;
@@ -12,8 +12,6 @@ body {
   height: 90px;
   border-radius: 5px;
 }
-
-
 
 #navbar ul {
   padding: 5px;
