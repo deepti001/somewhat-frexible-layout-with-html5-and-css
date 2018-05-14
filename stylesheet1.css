@@ -1,10 +1,11 @@
-﻿body {
+body {
   background-color: #9c9f84;
   margin:0px;
   font-family: Verdana, Georgia, serif;
   font-size: 14px;
 }
 /* gurder- margin */
+
 #header {
   background-color: #5c755e;
   margin:10px;
@@ -62,7 +63,7 @@
   padding: 20px;
   font-size: 105%;
   float: right;
-  width:260px;
+  width:250px;
   clear:right;
 }
 
@@ -83,17 +84,22 @@
   opacity:0.6;
 }
 
-h1{
+h1, h2{
   font-size: 120%;
   color:#ce282e;
 }
 
-h2 {
+h2{
+  color:darkgreen;
+}
+
+
+.h2 {
   font-size: 120%;
   color:blue;
 }
 
-h3 {
+#headerh1 {
   font-size: 250%;
   text-align: center;
   color: #e5e4d7;
